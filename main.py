@@ -2,10 +2,7 @@
 import pygame
 import pygame.camera
 from pygame.locals import *
-import math
-import cv2
-import mediapipe as mp
-import numpy as np
+
 
 pygame.init()
 pygame.camera.init()
